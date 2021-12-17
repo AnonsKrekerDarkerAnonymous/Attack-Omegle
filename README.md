@@ -1,5 +1,5 @@
 # Attack-Omegle
-Ima te u cosku na desnoj strani browzera 3 tackice koje idu ovako:" ... " i vikliknite na te tackice pa idite na vise alata i alati za razvoj inzenjera.
+Ima te u cosku na desnoj strani browzera 3 tackice koje idu ovako:" ... " i vi kliknite na te tackice pa idite na vise alata i alati za razvoj inzenjera.
 Takoder prije toga morate u ovaj kod unjeti kljuc koji ce te dobiti na: https://app.ipgeolocation.io/
 Code:
 const apiKey = "OVDJE NAPISATI TVOJ API KLJUC";
