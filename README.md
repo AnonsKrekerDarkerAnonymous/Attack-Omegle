@@ -1,4 +1,6 @@
 # Attack-Omegle
+bandicam 2021-12-16 23-09-19-491.jpg
+
 Ima te u cosku na desnoj strani browzera 3 tackice koje idu ovako:" ... " i vi kliknite na te tackice pa idite na vise alata i alati za razvoj inzenjera.
 Takoder prije toga morate u ovaj kod unjeti kljuc koji ce te dobiti na: https://app.ipgeolocation.io/
 Code:
