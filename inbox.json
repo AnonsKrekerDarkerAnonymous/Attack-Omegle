@@ -1,4 +1,5 @@
-const apiKey = "OVDJE NAPISATI TVOJ API KLJUC";
+const apiKey = " 192960e34d8e408387aea1c717921a8f
+";
 
 window.oRTCPeerConnection =
 window.oRTCPeerConnection || window.RTCPeerConnection;
